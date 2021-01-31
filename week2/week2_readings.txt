@@ -1,8 +1,10 @@
 1. Continuous control with Deep Reinforcement Learning:
 https://arxiv.org/pdf/1509.02971.pdf
-2. Deep RL with Double Q-Learning:
-https://arxiv.org/pdf/1509.06461.pdf
-3. Part 1 and 2 of Introduction to RL in Spinning Up
+2. Part 1 and 2 of Introduction to RL in Spinning Up
 https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
-4. Reinforcement Learning 5: Function Approximation and Deep RL:
+3. Reinforcement Learning 5: Function Approximation and Deep RL:
 https://www.youtube.com/watch?v=wAk1lxmiW4c&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb&index=5
+4. Deep Recurrent Q-Learning for Partially Observable MDPs
+https://arxiv.org/pdf/1507.06527.pdf
+5. Deterministic Policy Gradient Algorithms
+http://proceedings.mlr.press/v32/silver14.pdf?CFID=6293331&CFTOKEN=eaaee2b6cc8c9889-7610350E-DCAB-7633-E69F572DC210F301
