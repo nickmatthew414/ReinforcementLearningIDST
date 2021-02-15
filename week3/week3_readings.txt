@@ -6,4 +6,4 @@ https://spinningup.openai.com/en/latest/spinningup/exercises.html
 https://www.youtube.com/watch?v=bRfUxQs6xIM&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb&index=6
 4. Dueling Network Architectures for Deep Reinforcement Learning
 https://arxiv.org/abs/1511.06581
-5. Sutton and Barto Chapter 9: Planning and Learning with Tabular Methods
+5. Sutton and Barto Chapter 8: Planning and Learning with Tabular Methods

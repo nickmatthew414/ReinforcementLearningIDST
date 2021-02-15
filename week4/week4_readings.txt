@@ -1,0 +1,20 @@
+1. Trust Region Policy Optimization:
+
+2. Proximal Policy Optimization Algorithms
+
+3 Sample Efficient Actor-Critic With Experience Replay
+
+4. Sutton and Barto RL Chapter 9: On Policy Prediction with Approximation
+
+5. Asynchronous Methods for Deep Reinforcement Learning
+
+6. Deep Mind Lecture:  Reinforcement Learning 7: Planning and Models
+
+7. Policy Gradient Methods and PPO:
+https://www.youtube.com/watch?v=5P7I-xPq8u8
+
+8. Deep RL Bootcamp: Policy Gradients:
+https://www.youtube.com/watch?v=S_gwYj1Q-44&list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U&index=4
+
+9. Deep RL Bootcamp: Policy Gradients Revisited:
+https://www.youtube.com/watch?v=tqrcjHuNdmQ&list=PLCJPYIcPhgPAiiBjjVxi5St_lC_cXHFCK&index=5
