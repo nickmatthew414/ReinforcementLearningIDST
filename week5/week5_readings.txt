@@ -1,0 +1,6 @@
+1. TRPO, PPO Policy Gradients:
+https://www.youtube.com/watch?v=xvRrgxcpaHY&list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U&index=6
+2. Double Dueling Deep Q Network:
+https://www.youtube.com/watch?v=t4Q44httqF8
+3. Nuts and Bolts of Deep RL experimentation:
+https://www.youtube.com/watch?v=8EcdaCk9KaQ&list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U&index=7
