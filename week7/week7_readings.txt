@@ -1,0 +1,14 @@
+1. Deep RL Lecture 9: Model-Based RL:
+https://www.youtube.com/watch?v=iC2a7M9voYU&list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U&index=10
+
+2. Deep RL Lecture 10a: Utilities:
+https://www.youtube.com/watch?v=yA6wXERug70&list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U&index=11
+
+3. Deep RL Lecture 10b: Inverse Reinforcement Learning:
+https://www.youtube.com/watch?v=d9DlQSJQAoI&list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U&index=12
+
+4. Inverse Reinforcement Learning Parts 1-4:
+https://www.youtube.com/watch?v=ubwJh6jx4Dc
+
+5. Implement TRPO:
+repo guide: https://github.com/MEfeTiryaki/trpo

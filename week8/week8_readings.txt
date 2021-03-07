@@ -1,0 +1,4 @@
+1. Reward-Conditioned Policies:
+https://arxiv.org/abs/1912.13465
+2. Training Agents using upside-down reinforcement learning:
+https://arxiv.org/abs/1912.02877
