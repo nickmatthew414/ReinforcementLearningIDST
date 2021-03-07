@@ -1,0 +1,7 @@
+
+2. Stochastic Computation Graphs, Pathwise Derivative Policy Gradient Methods:
+https://www.youtube.com/watch?v=jmMsNQ2eug4&list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U&index=8 
+
+3. Chapter 10 Sutton and Barto
+
+4. Derivative-free and evolutionary methods
