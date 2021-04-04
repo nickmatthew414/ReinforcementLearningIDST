@@ -2,3 +2,10 @@
 https://arxiv.org/abs/1912.13465
 2. Training Agents using upside-down reinforcement learning:
 https://arxiv.org/abs/1912.02877
+3. Deep RL Bootcamp TAs Research Overview:
+https://www.youtube.com/watch?v=C4xreqGNGhs&list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U&index=14
+4. Recent Advances and Frontiers in Deep RL:
+https://www.youtube.com/watch?v=bsuvM1jO-4w&list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U&index=15
+5. Recent Advances and Frontiers in Deep RL part 2:
+https://www.youtube.com/watch?v=lYU5nq0dAQQ&list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U&index=16
+6. Walkthrough PPO Implementation

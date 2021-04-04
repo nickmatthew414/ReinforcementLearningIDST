@@ -1,0 +1,2 @@
+1. https://core.ac.uk/download/pdf/141207521.pdf
+2. Worked on flappy bird Deep RL code project
