@@ -1,0 +1,11 @@
+1. Deep Reinforcement Learning from human preferences:
+https://arxiv.org/abs/1706.03741
+2. Sutton Textbook Chapter 12: Eligibility Traces
+3. Eligibility Traces Lecture:
+https://www.youtube.com/watch?v=n0K83V1sCxc
+3. Backward view of Eligibility Traces:
+https://www.youtube.com/watch?v=A1s3dc64uhE
+4. Eligibility Trace Control:
+https://www.youtube.com/watch?v=OgKysheQJSQ
+5. Eligibility Traces and TD(lambda):
+https://amreis.github.io/ml/reinf-learn/2017/11/02/reinforcement-learning-eligibility-traces.html

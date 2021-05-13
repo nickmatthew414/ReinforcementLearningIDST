@@ -1,0 +1,4 @@
+1. Continue Chapter 13 Sutton & Barto Textbook
+2. Chapter 14: Psychology Sutton & Barto Textbook
+3. A History of Reinforcement Learning:
+https://www.youtube.com/watch?v=ul6B2oFPNDM

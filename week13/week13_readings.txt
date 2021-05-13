@@ -1,0 +1,1 @@
+1. Sutton and Barto Chapter 13: Policy Gradient Methods
